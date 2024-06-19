@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This simple website project shows how to use Git and GitHub together—updating for emergency fixes after stashing. Adding a line for rebasing example, then adding more features.
+This simple website project shows how to use Git and GitHub together—updating for emergency fixes after stashing. Adding a line for the rebasing example, then adding more features.
 
 ## Introduction
 
@@ -21,4 +21,4 @@ Please fork this repository and the issue Pull Requests for review.
 
 ### Copyright 
 
-2014 Git.Training. All rights reserved. 1234
+2014 Git.Training. All rights reserved. 1234 5678
